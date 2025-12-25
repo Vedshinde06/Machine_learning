@@ -1,13 +1,12 @@
----
+# Machine Learning Foundations and Algorithms Portfolio
 
-# Machine Learning Foundations & Algorithms Portfolio
+This repository contains a structured collection of machine learning concepts that I have learned and implemented hands-on.  
+Each notebook represents a topic studied in depth, focusing on practical understanding through implementation.
 
-This repository is a structured collection of my **machine learning learning journey**, where I implement concepts **from scratch and using libraries** as I study them.
-Every notebook represents a concept I have learned, practiced, and committed for long-term understanding.
-
->  Goal: Build strong ML fundamentals and practical intuition by learning → implementing → documenting.
+The goal of this repository is to build strong machine learning fundamentals by learning concepts, implementing them, and documenting the results.
 
 ---
+
 
 ## 📂 Repository Overview
 
