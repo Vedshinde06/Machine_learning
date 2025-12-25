@@ -5,7 +5,7 @@
 This repository is a structured collection of my **machine learning learning journey**, where I implement concepts **from scratch and using libraries** as I study them.
 Every notebook represents a concept I have learned, practiced, and committed for long-term understanding.
 
-> 📌 Goal: Build strong ML fundamentals and practical intuition by learning → implementing → documenting.
+>  Goal: Build strong ML fundamentals and practical intuition by learning → implementing → documenting.
 
 ---
 
